@@ -1,1 +1,1 @@
-# Customers_Default_Prediction_via_LogisticRegression_model
+- In this project we built Logistic Regression model on Bank 'credit_score' data to predict default customers. First we upload our train data and start Pre_processing part and then Modelling. There is Deployment part too. Our model showed higher Gini coefficient given 58%, hence we will deploy our trained model on new customers 'test_data'.
